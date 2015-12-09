@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "async_server", "async_server\async_server.vcxproj", "{5B76794C-88F7-45B5-A808-1C16E2E10075}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "async_client", "async_client\async_client.vcxproj", "{E1FF6C1A-88A8-4E22-A097-00D4D09C2496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B76794C-88F7-45B5-A808-1C16E2E10075}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B76794C-88F7-45B5-A808-1C16E2E10075}.Debug|Win32.Build.0 = Debug|Win32
+		{5B76794C-88F7-45B5-A808-1C16E2E10075}.Release|Win32.ActiveCfg = Release|Win32
+		{5B76794C-88F7-45B5-A808-1C16E2E10075}.Release|Win32.Build.0 = Release|Win32
+		{E1FF6C1A-88A8-4E22-A097-00D4D09C2496}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1FF6C1A-88A8-4E22-A097-00D4D09C2496}.Debug|Win32.Build.0 = Debug|Win32
+		{E1FF6C1A-88A8-4E22-A097-00D4D09C2496}.Release|Win32.ActiveCfg = Release|Win32
+		{E1FF6C1A-88A8-4E22-A097-00D4D09C2496}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
